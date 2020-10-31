@@ -10,7 +10,7 @@ export default function Index() {
     title: "André Araujo | Portfolio",
     description:
       "André Araujo is a software enginner student, who always seeks to improve his coding ability by always using the best practices.",
-    url: "",
+    url: "https://andrearaujo.vercel.app/",
   };
 
   const { title, description, url } = metaInfo;
