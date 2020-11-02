@@ -119,7 +119,7 @@ export default function About() {
               color="primary"
               size="large"
               startIcon={<Description />}
-              href="#"
+              href="https://drive.google.com/file/d/12OiQGePj_3WJsnHWerGC8JngL2qgRD3k/view?usp=sharing"
               rel="noopener"
               target="_blank"
             >
