@@ -9,9 +9,11 @@ import {
     SiMaterialUi,
     SiNextDotJs,
     SiPostgresql,
+    SiMongodb,
     SiMysql,
     SiJava,
     SiPython,
+    SiDocker
   } from "react-icons/si";
   
   const skillLogos = [
@@ -52,6 +54,10 @@ import {
       label: "Postgresql",
     },
     {
+      icon: <SiMongodb title="MongoDB" />,
+      label: "MongoDB",
+    },
+    {
       icon: <SiMysql title="Mysql" />,
       label: "Mysql",
     },
@@ -66,6 +72,10 @@ import {
     {
       icon: <SiGit title="Git" />,
       label: "Git",
+    },
+    {
+      icon: <SiDocker title="Docker" />,
+      label: "Docker",
     },
   ];
   
